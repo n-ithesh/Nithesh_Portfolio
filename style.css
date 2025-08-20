@@ -286,6 +286,12 @@
             padding: 2rem;
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
+        .img{
+            height: 20px;
+            width: 20px;
+            padding:3px;
+            margin: 2px;
+        }
 
         .skill-category h3 {
             color: #00d4ff;
@@ -300,8 +306,8 @@
         }
 
         .skill-tag {
-            background: rgba(0, 212, 255, 0.1);
-            color: #00d4ff;
+            background: rgba(7, 0, 34, 0.1);
+            /* color: #00d4ff; */
             padding: 0.5rem 1rem;
             border-radius: 25px;
             font-size: 0.9rem;
